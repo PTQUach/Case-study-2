@@ -14,10 +14,8 @@ I used Power Query to clean the workbooks and create relationships between all w
 The datasets:
 [Case study 2 - Actual.xlsx](https://github.com/user-attachments/files/16135067/Case.study.2.-.Actual.xlsx)
 [Australia.xlsx](https://github.com/user-attachments/files/16135068/Australia.xlsx)
-[UK.xlsx](https://github.com/user-attachments
-[France.xlsx](https://github.com/user-attachments/
+[UK.xlsx](https://github.com/user-attachments/files/16135069/UK.xlsx)
+[France.xlsx](https://github.com/user-attachments/files/16135082/France.xlsx)
 [Germany.xlsx](https://github.com/user-attachments/files/16135094/Germany.xlsx)
-files/16135082/France.xlsx)
 [USA.xlsx](https://github.com/user-attachments/files/16135080/USA.xlsx)
-/files/16135069/UK.xlsx)
 [Canada.xlsx](https://github.com/user-attachments/files/16135097/Canada.xlsx)
