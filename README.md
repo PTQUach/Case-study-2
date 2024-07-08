@@ -10,3 +10,14 @@ Business Requirement:
 
 File description:
 I used Power Query to clean the workbooks and create relationships between all workbooks using PowerPivot. To make reports, I used Pivot Tables to complete the business requirement for Eco Co company. 
+
+The datasets:
+[Case study 2 - Actual.xlsx](https://github.com/user-attachments/files/16135067/Case.study.2.-.Actual.xlsx)
+[Australia.xlsx](https://github.com/user-attachments/files/16135068/Australia.xlsx)
+[UK.xlsx](https://github.com/user-attachments
+[France.xlsx](https://github.com/user-attachments/
+[Germany.xlsx](https://github.com/user-attachments/files/16135094/Germany.xlsx)
+files/16135082/France.xlsx)
+[USA.xlsx](https://github.com/user-attachments/files/16135080/USA.xlsx)
+/files/16135069/UK.xlsx)
+[Canada.xlsx](https://github.com/user-attachments/files/16135097/Canada.xlsx)
